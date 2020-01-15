@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">TimeFighter</string>
     <string name="tap_me">Tap Me!</string>
-    <string name="time_left">Time Left: 0</string>
-    <string name="taps">Taps: 0</string>
+    <string name="time_left_init">Time Left: 10</string>
+    <string name="taps_init">Taps: 0</string>
+    <string name="time_left">Time Left: %1$s</string>
+    <string name="taps">Taps: %1$s</string>
+    <string name="best_init">Best Score: 0</string>
+    <string name="best">Best Score: %1$s</string>
 </resources>
